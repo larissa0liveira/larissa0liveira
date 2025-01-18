@@ -1,4 +1,4 @@
-###👋 Hi, I’m Larissa!
+## 👋 Hi, I’m Larissa!
 
 - 👩🏻‍💻 I’m a final-year Computer Engineering student at the University of Lisbon, Portugal
 - 💭 I’m interested in backend development, distributed systems and software design and architectures
